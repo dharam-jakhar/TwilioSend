@@ -13,7 +13,7 @@ $message = $twilio->messages
                   ->create("+19173490168", // to 
                            array( 
                                "from" => "+18507064915",       
-                               "body" => "Hello from Dharam Jakhar CS643 Fall 2018" 
+                               "body" => "Hello from Dharam Jakhar CS 643 Fall 2018" 
                            ) 
                   ); 
  
